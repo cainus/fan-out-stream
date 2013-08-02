@@ -21,7 +21,8 @@
   "gitHead": "eac0a1010b3ab8be6fccaf08e8f4080e8a13b2c9",
   "dependencies": {
     "readable-stream": "~1.0.2",
-    "readable-kafka-batch-stream": "0.0.0"
+    "readable-kafka-batch-stream": "0.0.0",
+    "web-stream": "0.0.2"
   },
   "devDependencies": {
     "jscoverage": "0.3.6",
